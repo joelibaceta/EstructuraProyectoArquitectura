@@ -102,20 +102,6 @@
 
 ---
 
-## Validación y Pruebas
-
-### Pruebas del Sistema Mejorado 
-- **Pruebas Unitarias e Integrales:**
-  - Validar cada componente del sistema migrado.
-- **Pruebas de Rendimiento:**
-  - Comparar métricas del sistema actual con el mejorado.
-- **Pruebas de Usuario:**
-  - Realizar pruebas con usuarios clave para verificar que las funcionalidades cumplan con sus expectativas.
-- **Entregable:**
-  - Informe de pruebas con resultados y ajustes sugeridos.
-
----
-
 ## Documentación y Presentación
 
 ### Documentación Completa 
@@ -140,10 +126,9 @@
 ## Criterios de Evaluación
 1. **Análisis inicial y requisitos** (15%).
 2. **Justificación y calidad del diseño arquitectónico** (30%).
-3. **Plan de migración y mitigación de riesgos** (20%).
+3. **Plan de migración y mitigación de riesgos** (15%).
 4. **Definición y alineación de KPIs** (20%).
-5. **Calidad del prototipo y pruebas realizadas** (10%).
-6. **Presentación y documentación final** (5%).
+6. **Presentación y documentación final** (20%).
 
 ---
 
