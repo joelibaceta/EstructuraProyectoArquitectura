@@ -101,21 +101,6 @@
 
 ---
 
-## Prototipo y Validación  
-
-### Prototipo de Funcionalidad Clave
-- Crear un prototipo funcional para validar los conceptos principales.
-- Realizar pruebas de usuario iniciales para ajustar el diseño.
-
-### Pruebas y Validación
-- Diseñar y realizar pruebas unitarias e integrales para validar que el sistema cumple con los requisitos establecidos.
-
-**Entregables:**
-- Prototipo funcional.
-- Informe de pruebas con resultados.
-
----
-
 ## Documentación y Presentación  
 
 ### Documentación Completa
