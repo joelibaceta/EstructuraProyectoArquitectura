@@ -1,4 +1,4 @@
-# Planteamiento de un Proyecto Nuevo Basado en un Caso de Estudio
+# Proyecto Nuevo Basado en un Caso de Estudio
 
 ## Introducción al Proyecto
 
