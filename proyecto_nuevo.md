@@ -129,8 +129,7 @@
 2. **Justificación y calidad del diseño arquitectónico** (30%).
 3. **Plan de trabajo y mitigación de riesgos** (15%).
 4. **Definición y alineación de KPIs** (20%).
-5. **Calidad del prototipo y pruebas realizadas** (10%).
-6. **Presentación y documentación final** (10%).
+6. **Presentación y documentación final** (20%).
 
 ---
 
