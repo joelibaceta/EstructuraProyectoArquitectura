@@ -1,4 +1,4 @@
-# Plan Extendido para el Planteamiento de un Proyecto Nuevo Basado en un Caso de Estudio
+# Planteamiento de un Proyecto Nuevo Basado en un Caso de Estudio
 
 ## Introducción al Proyecto
 
