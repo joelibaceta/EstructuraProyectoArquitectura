@@ -1,4 +1,4 @@
-# Plan Extendido para el Planteamiento de un Proyecto de Mejora o Migración
+# Planteamiento de un Proyecto de Mejora o Migración
 
 ## Introducción al Proyecto
 
